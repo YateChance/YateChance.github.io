@@ -1,0 +1,10 @@
+type = "card"
+title = "Honors"
+
+[[items]]
+title = "Mathematical Modeling Competition"
+subtitle = "National First Prize"
+
+[[items]]
+title = "Mathematics Competition"
+subtitle = "First Prize"

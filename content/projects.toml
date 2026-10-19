@@ -1,0 +1,10 @@
+type = "card"
+title = "Projects"
+description = "Current projects and technical explorations."
+
+
+[[items]]
+title = "GPT-driven Embodied Control"
+subtitle = "Architecture study & reproduction · Ongoing"
+content = "Studying GPT-driven embodied control architectures. Implemented three Galaxy General-related approaches and am preparing tasks related to PyRUA-Lean and HarnessVLA."
+tags = ["Robot Control", "Reproduction", "GPT"]

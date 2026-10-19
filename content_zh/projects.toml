@@ -1,0 +1,10 @@
+type = "card"
+title = "项目"
+description = "近期参与的项目与技术探索。"
+
+
+[[items]]
+title = "GPT 驱动的具身控制架构"
+subtitle = "方案研究与复现 · 进行中"
+content = "研究 GPT 操控具身任务的不同架构，已完成银河通用相关三个方案的实现，正在准备 PyRUA-Lean 与 HarnessVLA 相关任务。"
+tags = ["机器人控制", "架构复现", "GPT"]

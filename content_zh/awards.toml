@@ -1,0 +1,10 @@
+type = "card"
+title = "荣誉"
+
+[[items]]
+title = "数学建模国赛"
+subtitle = "一等奖"
+
+[[items]]
+title = "数学竞赛"
+subtitle = "一等奖"

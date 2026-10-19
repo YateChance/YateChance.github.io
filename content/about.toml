@@ -1,0 +1,29 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = ["Embodied AI & Robot Control", "Humanoid Everyday Tasks", "Long-horizon Planning & Evaluation", "Algorithms & Mathematical Modeling"]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "research"
+type = "markdown"
+source = "research.md"
+title = "Current Work"
+
+[[sections]]
+id = "highlights"
+type = "markdown"
+source = "highlights.md"
+title = "Competitions & Mathematics"
+
+[[sections]]
+id = "news"
+type = "list"
+source = "news.toml"
+title = "Recent Updates"

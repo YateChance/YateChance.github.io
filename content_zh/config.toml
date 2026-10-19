@@ -1,0 +1,56 @@
+[site]
+title = "刘垭畅"
+description = "刘垭畅的个人主页——具身智能、人形机器人任务与控制架构。"
+favicon = "/favicon.svg"
+last_updated = "2026年10月19日"
+
+[author]
+name = "刘垭畅"
+title = "人工智能学院 · 大三本科生"
+institution = "北京航空航天大学"
+avatar = "/profile-mark.svg"
+
+[social]
+email = "yachangliusy@gmail.com"
+github = "https://github.com/YateChance"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["en", "zh"]
+default_locale = "zh"
+mode = "fixed"
+fixed_locale = "zh"
+persist = true
+switcher = true
+
+[i18n.labels]
+en = "English"
+zh = "中文"
+
+[[navigation]]
+title = "关于"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "项目"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "荣誉"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

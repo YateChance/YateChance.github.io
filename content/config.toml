@@ -1,0 +1,56 @@
+[site]
+title = "Yachang Liu"
+description = "Academic homepage of Yachang Liu — embodied AI, humanoid tasks, and robot control architectures."
+favicon = "/favicon.svg"
+last_updated = "October 19, 2026"
+
+[author]
+name = "Yachang Liu"
+title = "Third-year Undergraduate · Artificial Intelligence"
+institution = "Beihang University"
+avatar = "/profile-mark.svg"
+
+[social]
+email = "yachangliusy@gmail.com"
+github = "https://github.com/YateChance"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["en", "zh"]
+default_locale = "zh"
+mode = "fixed"
+fixed_locale = "zh"
+persist = true
+switcher = true
+
+[i18n.labels]
+en = "English"
+zh = "中文"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Honors"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

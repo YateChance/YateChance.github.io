@@ -1,0 +1,29 @@
+type = "about"
+title = "关于"
+
+[profile]
+research_interests = ["具身智能与机器人控制", "人形机器人生活场景任务", "长程任务规划与评测", "算法与数学建模"]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "research"
+type = "markdown"
+source = "research.md"
+title = "正在做的事"
+
+[[sections]]
+id = "highlights"
+type = "markdown"
+source = "highlights.md"
+title = "竞赛与数学"
+
+[[sections]]
+id = "news"
+type = "list"
+source = "news.toml"
+title = "近期动态"
